@@ -1,0 +1,19 @@
+{
+  "name": "ethdenver_covalent",
+  "version": "1.0.0",
+  "description": "ETH Denver hackathon submission for covalent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quantifydefi/ETHDenver_Covalent.git"
+  },
+  "author": "alex@quantifycrypto.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quantifydefi/ETHDenver_Covalent/issues"
+  },
+  "homepage": "https://github.com/quantifydefi/ETHDenver_Covalent#readme"
+}
